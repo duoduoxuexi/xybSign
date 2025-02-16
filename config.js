@@ -2,8 +2,8 @@ const config = {
   mode: "in", // 签到:in,签退:out
   accounts: [
     {
-      username: "", //用户名
-      password: "", //密码
+      username: "19545698579", //用户名
+      password: "Yhm2196232994", //密码
       openId: "", //微信小程序抓包openid(可选)
       unionId: "", //微信小程序抓包unionId(可选)
       sign: true, //是否自动签到
@@ -24,9 +24,9 @@ const config = {
     //   needReport: false, //是否自动填写周报
     // },
   ],
-  qmsgKey: "", //qmsg酱key
-  qmsgTo: "", //推送的qq号,用,分隔(可选)
-  wxPusherAppToken: "", // wxPusher 的 appToken
+  qmsgKey: "2b4992202c7afe169b49d61bb9ad6b68", //qmsg酱key
+  qmsgTo: "2196232994", //推送的qq号,用,分隔(可选)
+  wxPusherAppToken: "AT_91Q6gVRWN9bNjx4bFSc3Tf9jV5rvCZF2", // wxPusher 的 appToken
   // TODO: feat: (wxpusher/topic) support wxpusher/topic push
 };
 
